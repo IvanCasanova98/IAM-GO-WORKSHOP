@@ -1,8 +1,6 @@
 package tools
 
 import (
-	"fmt"
-	"path/filepath"
 	"testing"
 )
 

@@ -1,9 +1,5 @@
 package tools
 
-import (
-	"io/ioutil"
-	"os"
-)
 
 // Calculate a Fibonacci number
 func Fibonacci(n int) int {
